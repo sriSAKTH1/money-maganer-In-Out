@@ -1,0 +1,8 @@
+{
+  "name": "Money Manager",
+  "description": "Offline-first personal money manager with natural tones design, multi-account tracking, category budgeting, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
